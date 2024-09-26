@@ -12,7 +12,7 @@ using UserManagement.Data.Models;
 namespace UserManagement.Data.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20230328162524_initcreate")]
+    [Migration("20240926003010_initcreate")]
     partial class initcreate
     {
         /// <inheritdoc />
